@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ba44fb1-4b45-441f-940d-77f41acde82c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bYGp9UmTDn6WPzxit6IZzwFaIp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.FavoriteTest.addFavorite.executor": "Run",
+    "TestNG.FavoriteTest.addItem.executor": "Run",
+    "TestNG.FavoriteTest.emptyFavorites.executor": "Run",
+    "TestNG.FavoriteTest.executor": "Run",
+    "TestNG.FavoriteTest.favorites.executor": "Run",
+    "TestNG.FavoriteTest.removeItem.executor": "Run",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/idilsusanlav/Desktop/trendyol-test-cases/trendyol-test-cases",
+    "onboarding.tips.debug.path": "/Users/idilsusanlav/Desktop/trendyol-test-cases/trendyol-test-cases/src/main/java/com/trendyol/test/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.FavoriteTest.emptyFavorites">
+    <configuration name="FavoriteTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-test-cases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FavoriteTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavoriteTest.addItem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-test-cases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FavoriteTest" />
+      <option name="METHOD_NAME" value="addItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavoriteTest.emptyFavorites" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-test-cases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FavoriteTest" />
+      <option name="METHOD_NAME" value="emptyFavorites" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavoriteTest.favorites" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-test-cases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FavoriteTest" />
+      <option name="METHOD_NAME" value="favorites" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavoriteTest.removeItem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-test-cases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FavoriteTest" />
+      <option name="METHOD_NAME" value="removeItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FavoriteTest.emptyFavorites" />
+        <item itemvalue="TestNG.FavoriteTest.favorites" />
+        <item itemvalue="TestNG.FavoriteTest.addItem" />
+        <item itemvalue="TestNG.FavoriteTest" />
+        <item itemvalue="TestNG.FavoriteTest.removeItem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-temurin-21.0.2-3183f394aec4-22629b30" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ba44fb1-4b45-441f-940d-77f41acde82c" name="Changes" comment="" />
+      <created>1706384783446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706384783446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/trendyol/test/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
