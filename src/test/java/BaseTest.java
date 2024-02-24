@@ -12,6 +12,7 @@ public class BaseTest {
     static int DEFAULT_WAIT = 30;
     static String USERNAME = "";
     static String PASSWORD = "";
+    static String WRONGPASSWORD = "";
 
     WebDriver driver;
 
