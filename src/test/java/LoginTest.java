@@ -18,7 +18,6 @@ public class LoginTest extends BaseTest {
         Assert.assertTrue(driver.findElement(By.className("lr-title")).isDisplayed());
         driver.findElement(By.id("login-email")).sendKeys(USERNAME);
         driver.findElement(By.id("login-password-input")).sendKeys(WRONGPASSWORD);
-        //driver.findElement(By.xpath(("//*[@id=\"login-register\"]/div[3]/div[2]/form/button/span[contains(text(),'Giriş Yap')]"))).click();
         driver.findElement(By.cssSelector(".q-primary.q-fluid.q-button-medium.q-button.submit")).click();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         Assert.assertTrue(driver.findElement(By.id("error-box-wrapper")).isDisplayed());
